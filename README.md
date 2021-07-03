@@ -233,4 +233,4 @@ For NFT Wallets types, the following _Slots_ will exist for:
 
 ##  Copyright
 
-Copyright Industrias de Firmas Electrónicas, S.A. (IFESA) and Industrias DAO Blockchain. July 3rd, 2021.
+Copyright Industrias de Firmas Electrónicas, S.A. (IFESA) and Industrias DAO (@IndustriasDAO). July 3rd, 2021.
