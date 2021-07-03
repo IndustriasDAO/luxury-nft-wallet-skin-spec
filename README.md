@@ -75,6 +75,8 @@ Inspired by user-personalized skins on interfaces that have been used to brand a
 
 [Winamp Skins](https://en.wikipedia.org/wiki/Winamp): Skins are bitmap files which alter the aesthetic design of the Winamp graphical user interface (GUI) and can add functionality with scripting. Winamp published documentation on skin creation in 1998 with the release of Winamp 2 and invited Winamp users to publish skins on Winamp.com. 
 
+![Winamp](winamp-retro.png)
+
 
 ## 
 
@@ -175,10 +177,10 @@ This Specification also allow for skins to be updatable,  that can be done using
 
 For Blockchain-type wallet types, the following _Slots_ will exist for:
 
+![Metamask Sample Wallet](metamask-wallet-idao.png)
+
 
 #### Transfer Funds:
-
-
 
 * From/To Address
 * Amount Slot
