@@ -64,14 +64,14 @@ This proposal also includes brands that can be visually verified, with metadata 
 
 ##  Motivation
 
-Since Blockchain tech is going mainstream, and the NFT’s exploration of possibilities seems now endless..  Now, we could offer brands and push personalization that will be important as wallets will be part of our day to day activities. 
+Since Blockchain tech is going mainstream, and the NFT’s exploration of possibilities seems now endless...  Now, we could offer brands and push personalization that will be important as wallets will be part of our day to day activities. 
 
-Also, Innovation on luxury brands will evolve outside their current niche and as Milton Pedraza, from the Luxury Institute, [has pointed out](https://www.linkedin.com/posts/milton-pedraza-1141272_shopping-for-high-end-brands-is-harder-than-activity-6816697734565793792-IGqX/) that “the brightest future of luxury is beyond fashion into a multitude of innovative luxury categories”.
+Innovation on luxury brands will evolve outside their current niche and as Milton Pedraza, from the Luxury Institute, [has pointed out](https://www.linkedin.com/posts/milton-pedraza-1141272_shopping-for-high-end-brands-is-harder-than-activity-6816697734565793792-IGqX/) that “the brightest future of luxury is beyond fashion into a multitude of innovative luxury categories”.
 
 
 ##  Prior Art
 
-Inspired by user-personalized skins on interfaces that have been used to brand and personalize user experiences.
+Inspired by luxury and by user-personalized skins on interfaces that have been used to brand and personalize user experiences.
 
 [Winamp Skins](https://en.wikipedia.org/wiki/Winamp): Skins are bitmap files which alter the aesthetic design of the Winamp graphical user interface (GUI) and can add functionality with scripting. Winamp published documentation on skin creation in 1998 with the release of Winamp 2 and invited Winamp users to publish skins on Winamp.com. 
 
