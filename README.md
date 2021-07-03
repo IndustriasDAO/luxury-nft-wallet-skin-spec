@@ -24,7 +24,7 @@ Conversion notes:
 
 
 # 
-NFT Based Luxury Wallet Skins (DRAFT)
+# NFT Based Luxury Wallet Skins (DRAFT)
 
 
 <table>
@@ -50,30 +50,26 @@ NFT Based Luxury Wallet Skins (DRAFT)
 
 
 
-## 
- Simple Summary
+##   Simple Summary
 
 Branded or personalized digital wallet skin, using [ERC-721](https://eips.ethereum.org/EIPS/eip-721) NFT Protocol.
 
 
-## 
- Abstract
+##  Abstract
 
 We propose a special NFT Metadata Schema that has the style content to load a personalized skin that users can use in their wallet to brand their whole wallet experience.
 
 This proposal also includes brands that can be visually verified, with metadata verification.
 
 
-## 
- Motivation
+##  Motivation
 
 Since Blockchain tech is going mainstream, and the NFT’s exploration of possibilities seems now endless..  Now, we could offer brands and push personalization that will be important as wallets will be part of our day to day activities. 
 
 Also, Innovation on luxury brands will evolve outside their current niche and as Milton Pedraza, from the Luxury Institute, [has pointed out](https://www.linkedin.com/posts/milton-pedraza-1141272_shopping-for-high-end-brands-is-harder-than-activity-6816697734565793792-IGqX/) that “the brightest future of luxury is beyond fashion into a multitude of innovative luxury categories”.
 
 
-## 
- Prior Art
+##  Prior Art
 
 Inspired by user-personalized skins on interfaces that have been used to brand and personalize user experiences.
 
@@ -83,16 +79,13 @@ Inspired by user-personalized skins on interfaces that have been used to brand a
 ## 
 
 
----
 
 
 
-## 
-Specification
+## Specification
 
 
-### 
- Container
+###  Container
 
 The assets will be contained in a zip and it has 4 folders
 
@@ -109,8 +102,7 @@ The root file is called
 
 * index.json
 
-### 
-Universal Wallet Skin Guidelines
+### Universal Wallet Skin Guidelines
 
 
 #### 
@@ -120,8 +112,7 @@ Three types of wallets that exist:
 2. Verified Credential Wallets
 3. NFT Wallets
 
-#### 
- Blockchain Wallets
+####  Blockchain Wallets
 
 
 index.json: Which contains the type of wallet that defines the following
@@ -137,8 +128,7 @@ use cases:
 * Export Wallet
 * TransactionLog
 
-#### 
- Verified Credential Wallets
+####  Verified Credential Wallets
 
 
 TO-DO:
@@ -146,8 +136,7 @@ TO-DO:
 Needs to follow  presentation standard defined by the DIF.
 
 
-#### 
- NFT Wallets
+####  NFT Wallets
 
 index.json: Which contains the type of wallet that defines the following
 
@@ -163,8 +152,7 @@ use cases:
 * TransferNFT
 * ViewMetadata
 
-### 
- Universal Wallet Skin Implementation
+###  Universal Wallet Skin Implementation
 
 
 Each wallet maker defines a series of slots, based on the [W3C Web Components Specification Slots Proposal](https://github.com/WICG/webcomponents/blob/gh-pages/proposals/Slots-Proposal.md) in this draft; each use case should define the slots where the skinnable content will be blinded.
@@ -180,8 +168,7 @@ The **NFT Metadata URI** is self-describable, it contains the package with the d
 This Specification also allow for skins to be updatable,  that can be done using technologies like IPNS which allows dynamic content ID’s to be updatable, or it can be customized in the smart contract of the NFT.
 
 
-## 
- Test Cases
+##  Test Cases
 
 
 ### Blockchain Wallets
@@ -244,7 +231,6 @@ For NFT Wallets types, the following _Slots_ will exist for:
  
 
 
-## 
- Copyright
+##  Copyright
 
 Copyright Industrias de Firmas Electrónicas, S.A. (IFESA) and Industrias DAO Blockchain. July 3rd, 2021.
